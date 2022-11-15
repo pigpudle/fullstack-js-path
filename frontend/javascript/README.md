@@ -79,3 +79,4 @@
 - [ES Next features](https://www.javascripttutorial.net/es-next/)
 - [Functional Programming Principles in Javascript](https://www.freecodecamp.org/news/functional-programming-principles-in-javascript-1b8fc6c3563f/)
 - [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
+- [JavaScript Visualized (7 Part Series)](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
